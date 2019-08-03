@@ -1,6 +1,9 @@
-# connection_flutter
+<h1 align="center">
+  <br>
+  Online & Offline Connectivity
+  <br>
+</h1>
 
-A new Flutter project.
 
 ## 📱 Screenshots #
 
