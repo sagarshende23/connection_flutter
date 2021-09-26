@@ -32,14 +32,13 @@ class MyApp extends StatelessWidget {
                           color:
                               connected ? Color(0xFF00EE44) : Color(0xFFEE4400),
                           child: connected
-                              ?  Row(
+                              ? Row(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
                                     Text(
-                                      "OFFLINE",
+                                      "ONLINE",
                                       style: TextStyle(color: Colors.white),
                                     ),
-                                    
                                   ],
                                 )
                               : Row(
